@@ -17,7 +17,7 @@ public class PalindromeChecker {
     }
 
     public static void main(String[] args) {
-        String input = "A man, a plan, a canal, Panama"; // Example input
+        String input = "Ana"; // Example input
         boolean result = isPalindrome(input);
         System.out.println("Is it a palindrome? " + result);
     }
