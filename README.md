@@ -1,4 +1,4 @@
-# Fun-with-Java
+# The Java Funhouse
 Making Java fun line by line
 
 How to Run Away... I Mean, Run the Programs:
